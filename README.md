@@ -25,6 +25,12 @@ How semantic tags help describe the purpose of content clearly:
 - `<article>` for individual content blocks
 - `<footer>` for page-end information
 - `<hr>` for separating sections visually
+- Using `<table>` to define a table
+- Creating rows with `<tr>`
+- Adding header cells using `<th>`
+- Adding data cells using `<td>`
+- Structuring tables with `<thead>`, `<tbody>`, and `<tfoot>`
+- Improving readability with proper alignment and spacing
 
 ### 🔹 Proper HTML Structure
 - Writing clean and readable HTML
@@ -63,11 +69,22 @@ The project was completed in simple steps:
 ## 📂 Project Structure
 HTML First Assignment/
 │
-├── index.html # Main HTML file
-└── README.md # Project documentation
+├── index.html    # Main HTML file
+├── README.md     # Project documentation
+└── Preview.png   # Screenshot preview of the project
 
 
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
+
+## 👤 Author
+**Jay**  
+GitHub: https://github.com/jayDevara
+
+## 🎯 Project Purpose
+This project was created as part of my learning journey in web development to understand the fundamentals of HTML and build a strong foundation before moving on to CSS and JavaScript.
+
+## 📄 License
+This project is open for learning and personal use.
