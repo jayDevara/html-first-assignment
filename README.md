@@ -14,7 +14,7 @@ This is a beginner-friendly HTML project created to practice writing clean and m
 
 This project is a simple static web page built using only HTML.  
 
-!\[Project Preview](Preview.png)
+!\[Project Preview](https://raw.githubusercontent.com/jayDevara/html-first-assignment/main/Preview.png)
 
 
 
