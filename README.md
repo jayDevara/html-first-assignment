@@ -65,14 +65,12 @@ The project was completed in simple steps:
 - Ensured clean and readable code
 
 ---
-
 ## 📂 Project Structure
 HTML First Assignment/
 │
 ├── index.html # Main HTML file
 ├── README.md # Project documentation
 └── Preview.png # Screenshot preview of the project
-
 ---
 
 ## 🛠️ Technologies Used
