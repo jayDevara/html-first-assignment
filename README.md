@@ -66,11 +66,15 @@ The project was completed in simple steps:
 
 ---
 ## 📂 Project Structure
+
+<pre>
 HTML First Assignment/
 │
-├── index.html # Main HTML file
-├── README.md # Project documentation
-└── Preview.png # Screenshot preview of the project
+├── index.html
+├── README.md
+└── Preview.png
+</pre>
+
 ---
 
 ## 🛠️ Technologies Used
